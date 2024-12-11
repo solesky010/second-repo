@@ -5,3 +5,4 @@ fromㅗㅑㅠ
 you mean hub?
 just fetch
 and merge later
+this time pull (merge at once)
